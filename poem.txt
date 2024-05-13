@@ -1,3 +1,5 @@
 commiting a new file 
 aadding a new line
 adding a third line
+adding a third but different line in the mainbranch
+merging and resolving the conflict
